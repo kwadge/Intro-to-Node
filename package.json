@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwadge/Intro-to-Node.git"
+  },
+  "author": "Kwadwo Eck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwadge/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/kwadge/Intro-to-Node#readme"
+}
