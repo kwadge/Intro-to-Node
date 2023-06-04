@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kwadge/Intro-to-Node/issues"
   },
-  "homepage": "https://github.com/kwadge/Intro-to-Node#readme"
+  "homepage": "https://github.com/kwadge/Intro-to-Node#readme",
+  "dependencies": {
+    "mysql2": "^3.3.3"
+  }
 }
